@@ -1,0 +1,11 @@
+backend/main.go
+backend/.env
+
+# frontend
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/.env.local
+
+# General
+.DS_Store

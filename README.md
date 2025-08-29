@@ -7,8 +7,8 @@ A modern, professional dashboard application built with a Go (Echo) backend, a N
 
 ### 📸 Screenshot
 
-![Dashboard Screenshot](public\s1.png)
-![Dashboard Screenshot](public\s2.png)
+![Dashboard Screenshot 1](https://github.com/Divyamsirswal/next-go-dashboard/blob/main/public/s1.png?raw=true)
+![Dashboard Screenshot 2](https://github.com/Divyamsirswal/next-go-dashboard/blob/main/public/s2.png?raw=true)
 
 
 
